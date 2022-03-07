@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+    color: black;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+
+.red {
+    color: red;
+}
+
+.v-middle {
+    vertical-align: middle;
+}
+
+.mat-flat-button.mat-primary,
+.mat-raised-button.mat-primary,
+.mat-fab.mat-primary,
+.mat-mini-fab.mat-primary {
+    background-color: #676169;
+}
+
+.mat-drawer-container {
+    background-color: rgb(204, 199, 199);
+}
+
+.msg-succes{
+    background-color:#28a745 ;
+    color:whitesmoke;
+}
+
+.msg-error{
+    background-color:#e35e6b ;
+    color:whitesmoke;
+}

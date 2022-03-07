@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+    margin-top: 12px;
+    background-color: rgb(235, 234, 232);
+    font-size: 1.5rem;
+
+}
+
+.edit>i {
+    /* > ... dentro de edit tem um i */
+    color: rgb(28, 28, 241);
+}
+
+.delete>i {
+    color: #e35e6b;
+}
+
+td,th {
+    color: black;
+}
+
+.edit {
+    /* só no edit, definir a margem entre eles e separar os icons*/
+
+    margin-right: 10px;
+}

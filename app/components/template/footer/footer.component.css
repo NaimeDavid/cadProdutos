@@ -1,0 +1,17 @@
+.footer{
+    position:fixed;
+    bottom: 0;
+    background-color:rgb(204, 199, 199);
+    color: black;
+
+    display: flex;
+    justify-content: flex-end;
+    box-shadow: inset 0 0 1em rgb(206, 194, 194);
+
+}
+
+.footer .spam{
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+
